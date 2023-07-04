@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Erik-Lin
-- 👀 I’m interested in C/C++ and web development.
-- 🌱 I'm working as a C/C++ development intern at an alumni company.
-- 🌱 I’m currently learning openmp and mpi for HPC.
-- 💞️ I’m looking at on-campus recruiting opportunities in the fall.
+- 👀 I’m interested in C/C++, Reinforcement Learning and 5G/6G.
+- 🌱 I'm working as a software engineer at CertusNet,a 5G communications company.
+- 💞️ I'm learning 3gpp technical specification.
 - 📫 How to reach me
-  - email: erik_lin@163.com
+  - email: linsl@certusnet.com.cn
 
 <!---
 Erik-Lin/Erik-Lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
