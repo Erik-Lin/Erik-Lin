@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Erik-Lin
-- 👀 I’m interested in C/C++, Reinforcement Learning and 5G/6G.
+- 👀 I’m interested in C/C++, Deep Reinforcement Learning and 5G/6G.
 - 🌱 I'm working as a software engineer at CertusNet,a 5G communications company.
-- 💞️ I'm learning 3gpp technical specification.
+- 💞️ I have a DRL studio inside of the Fudan University which called FudanIDS.
 - 📫 How to reach me
-  - email: linsl@certusnet.com.cn
+  - email: erik_lin@163.com
 
 <!---
 Erik-Lin/Erik-Lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
