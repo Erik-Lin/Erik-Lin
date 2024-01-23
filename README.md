@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erik-Lin
-- 👀 I’m interested in C/C++, Deep Reinforcement Learning and 5G/6G.
+- 👀 I’m interested in C/C++ and Deep Reinforcement Learning.
 - 🌱 I'm working as a software engineer at CertusNet,a 5G communications company.
 - 💞️ I have a DRL studio inside of the Fudan University which called FudanIDS.
 - 📫 How to reach me
