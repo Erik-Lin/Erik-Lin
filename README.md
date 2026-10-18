@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Erik-Lin
 - 👀 I’m interested in software development and Deep Reinforcement Learning.
-- 🌱 I'm a software engineer and the founder of Fudan Intelligent Decision Studio.
 - 📫 How to reach me: erik_lin@163.com
 
 <!---
